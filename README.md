@@ -12,14 +12,14 @@ Windows desktop application for workforce time and overtime analysis.
 
 Highlights:
 
-- read-only API integration;
-- attendance and overtime analysis;
-- business-rule evaluation;
-- anomaly detection;
-- Excel and PDF reporting;
-- selective and concurrent data retrieval;
-- Windows DPAPI credential protection;
-- portable Windows distribution.
+- read-only API integration
+- attendance and overtime analysis
+- business-rule evaluation
+- anomaly detection
+- Excel and PDF reporting
+- selective and concurrent data retrieval
+- Windows DPAPI credential protection
+- portable Windows distribution
 
 [View Time Analyst](https://github.com/Stivenarrow/time-analyst)
 
@@ -52,11 +52,11 @@ The project documents the design and implementation process, architectural decis
 
 I am building a portfolio around real projects and practical software systems, with an emphasis on:
 
-- solving concrete operational problems;
-- keeping systems understandable and maintainable;
-- protecting sensitive information;
-- documenting architecture and engineering decisions;
-- turning working internal solutions into presentable software projects.
+- solving concrete operational problems
+- keeping systems understandable and maintainable
+- protecting sensitive information
+- documenting architecture and engineering decisions
+- turning working internal solutions into presentable software projects
 
 ## Portfolio principles
 
