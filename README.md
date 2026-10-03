@@ -1,4 +1,4 @@
-﻿\# Stivenarrow
+# Stivenarrow
 
 
 
@@ -10,11 +10,11 @@ I focus on creating useful software around real operational problems: automation
 
 
 
-\## Featured projects
+## Featured projects
 
 
 
-\### Time Analyst
+### Time Analyst
 
 
 
@@ -26,33 +26,33 @@ Highlights:
 
 
 
-\- read-only API integration;
+- read-only API integration;
 
-\- attendance and overtime analysis;
+- attendance and overtime analysis;
 
-\- business-rule evaluation;
+- business-rule evaluation;
 
-\- anomaly detection;
+- anomaly detection;
 
-\- Excel and PDF reporting;
+- Excel and PDF reporting;
 
-\- selective and concurrent data retrieval;
+- selective and concurrent data retrieval;
 
-\- Windows DPAPI credential protection;
+- Windows DPAPI credential protection;
 
-\- portable Windows distribution.
-
-
-
-\[View Time Analyst](https://github.com/Stivenarrow/time-analyst)
+- portable Windows distribution.
 
 
 
-\---
+[View Time Analyst](https://github.com/Stivenarrow/time-analyst)
 
 
 
-\### STRADA Renaissance Case Study
+---
+
+
+
+### STRADA Renaissance Case Study
 
 
 
@@ -64,41 +64,41 @@ The project documents the design and implementation process, architectural decis
 
 
 
-\[View STRADA Renaissance Case Study](https://github.com/Stivenarrow/strada-renaissance-case-study)
+[View STRADA Renaissance Case Study](https://github.com/Stivenarrow/strada-renaissance-case-study)
 
 
 
-\---
+---
 
 
 
-\## Areas I work on
+## Areas I work on
 
 
 
-\- Python applications
+- Python applications
 
-\- TypeScript and React
+- TypeScript and React
 
-\- Next.js
+- Next.js
 
-\- REST API integrations
+- REST API integrations
 
-\- Data analysis and reporting
+- Data analysis and reporting
 
-\- Internal business tools
+- Internal business tools
 
-\- Workflow automation
+- Workflow automation
 
-\- Applied AI
+- Applied AI
 
-\- Windows desktop applications
+- Windows desktop applications
 
-\- Software architecture
+- Software architecture
 
 
 
-\## Current direction
+## Current direction
 
 
 
@@ -106,19 +106,19 @@ I am building a portfolio around real projects and practical software systems, w
 
 
 
-\- solving concrete operational problems;
+- solving concrete operational problems;
 
-\- keeping systems understandable and maintainable;
+- keeping systems understandable and maintainable;
 
-\- protecting sensitive information;
+- protecting sensitive information;
 
-\- documenting architecture and engineering decisions;
+- documenting architecture and engineering decisions;
 
-\- turning working internal solutions into presentable software projects.
+- turning working internal solutions into presentable software projects.
 
 
 
-\## Portfolio principles
+## Portfolio principles
 
 
 
